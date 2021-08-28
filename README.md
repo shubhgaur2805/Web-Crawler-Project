@@ -7,6 +7,8 @@
     Table 2: Api_category_data has a name of all category in API
 
 ### Schema Image
+![db](https://user-images.githubusercontent.com/65850757/131217079-9eb8e39a-6cb4-4d8e-83fd-41a87d7f7358.png)
+
 
 ### To Recreate Tables 
     Run main.py file

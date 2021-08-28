@@ -14,7 +14,7 @@
     Run main.py file
 
 ## What is done from Points to Archive
-    All Points are archived as given
+    All Points are archived as given:
    - [x] Your code should follow concept of OOPS
    - [x] Support for handling authentication requirements & token expiration of server
    - [x] Support for pagination to get all data
@@ -22,8 +22,8 @@
    - [x] Crawled all API entries for all categories and stored it in a database
 
 ### Total Entries in Tables:
-    Api_data: 525 Entries
-    Api_category_data: 45 Entries
+   - Api_data: 525 Entries
+   - Api_category_data: 45 Entries
 
 ## What is not done from Points to Archive:
     N/A

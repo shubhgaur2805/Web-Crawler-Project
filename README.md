@@ -15,11 +15,11 @@
 
 ## Points to Archive
     All Points are archived as given
-    -[x] Your code should follow concept of OOPS
-    -[x] Support for handling authentication requirements & token expiration of server
-    -[x] Support for pagination to get all data
-    -[x] Develop work around for rate limited server
-    -[x] Crawled all API entries for all categories and stored it in a database
+    - [x] Your code should follow concept of OOPS
+    - [x] Support for handling authentication requirements & token expiration of server
+    - [x] Support for pagination to get all data
+    - [x] Develop work around for rate limited server
+    - [x] Crawled all API entries for all categories and stored it in a database
 
 ### What is not done from Points to Archive:
     N/A

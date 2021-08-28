@@ -29,7 +29,7 @@
     N/A
     
 ## What would you improve if given more days
-    If more days are given: - 
+   If more days are given: - 
    - I would improve the efficency of code 
    - Add a feature user can select data from perticular page of category and able to store in DB
    - Fix the JSON error which occur rarely  

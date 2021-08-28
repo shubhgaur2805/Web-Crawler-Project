@@ -4,11 +4,11 @@
     Output: api_database.db and a Csv_file as Data
 ## Details of all the tables and their schema:
     There is Two tables in the database: -
-	Table 1: Api_data has all meta data of API's
-   	Table 2: Api_category_data has a name of all category in API
+	Table 1: Api_metadata has all meta data of API's
+   	Table 2: Api_category has a name of all category in API
 
 ### Database Schema:
-![db](https://user-images.githubusercontent.com/65850757/131217079-9eb8e39a-6cb4-4d8e-83fd-41a87d7f7358.png)
+![new](https://user-images.githubusercontent.com/65850757/131232972-ed480a1c-5242-494f-9fbe-99f55cf5b94f.png)
 
 ### To Recreate Tables 
     Run main.py file
@@ -22,8 +22,8 @@
    - [x] Crawled all API entries for all categories and stored it in a database
 
 ### Total Entries in Tables:
-   - Api_data: 525 Entries
-   - Api_category_data: 45 Entries
+   - Api_metadata: 525 Entries
+   - Api_category: 45 Entries
 
 ## What is not done from Points to Archive:
     N/A

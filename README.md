@@ -25,9 +25,9 @@
     Api_data: 525 Entries
     Api_category_data: 45 Entries
 
-### What is not done from Points to Archive:
+## What is not done from Points to Archive:
     N/A
     
 ## What would you improve if given more days
-    If more days are given i would improve the efficency of code
+    If more days are given I would improve the efficency of code and also add a feature from which categroies at  which page data user want in database 
     

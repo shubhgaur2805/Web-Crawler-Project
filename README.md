@@ -1,4 +1,4 @@
-# postman_project
+# Postman_Assigment
 ### Project - Get metadata from API and store in a database. 
 #### Given  -  POSTMAN API 
 ## Step to run a code:

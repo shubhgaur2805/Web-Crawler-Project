@@ -43,5 +43,4 @@
    - I would improve the efficiency of code 
    - Add a featured user can select data from a particular page of category and able to store in DB
    - Fix the JSON error which occurs rarely
-   - Implement on docker  
     

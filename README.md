@@ -39,10 +39,7 @@ Command to recreate main.py file
 ### Total Entries in Tables:
    - Api_metadata: 525 Entries
    - Api_category: 45 Entries
-
-## What is not done from Points to Archive:
-    N/A
-    
+   
 ## What would you improve if given more days
    If more days are given: - 
    - I would improve the efficiency of code 

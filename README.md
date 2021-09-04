@@ -1,5 +1,16 @@
-# Postman_Assigment
+# Postman Web Scraping Assigment Project 
 ### Project - Get metadata from API and store in a database. 
+
+##Problem statement
+
+On the landing page of the above repo, you can see some list of categories for e.g. Animals, Art & Design, Business etc.
+In the next section you can find some API details for each one of the categories for e.g. under Animals section we have 
+API:  Cat Facts, Link: https://alexwohlbruck.github.io/cat-facts/
+Description: Daily cat facts, Auth: No, HTTPS: Yes, CORS: No
+We need to crawl the above list of all APIs and store it in a database. You can find the public API here with Postman documentation. Do not use any other APIs or scraping method to get the data. 
+Note: You just need to fetch and store a list of all API in the database and NOT data from each API.
+
+
 #### Given  -  POSTMAN API 
 ## Step to run a code:
 #### Step 1: Clone/download files              

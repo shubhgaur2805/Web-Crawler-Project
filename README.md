@@ -1,7 +1,6 @@
 # Postman Web Scraping Assigment Project 
 ### Project - Get metadata from API and store in a database. 
-
-##Problem statement
+## Problem statement
 
 On the landing page of the above repo, you can see some list of categories for e.g. Animals, Art & Design, Business etc.
 In the next section you can find some API details for each one of the categories for e.g. under Animals section we have 

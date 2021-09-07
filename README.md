@@ -1,4 +1,4 @@
-# Postman Web Scraping Project 
+# Web-Crawling-Project 
 ### Project - Get metadata from API and store in a database. 
 ## Problem statement
 
